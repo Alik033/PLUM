@@ -1,6 +1,6 @@
 **PLUM: A Prompt-guided Lightweight Unified Model for Enhancement of Multi-degraded Underwater Image** 
 
-![Block](PLUM_3.pdf)
+![Block](PLUM_dia.png)
 
 ## Datasets
   - [**LSUI**](https://drive.google.com/file/d/10gD4s12uJxCHcuFdX9Khkv37zzBwNFbL/view), 
