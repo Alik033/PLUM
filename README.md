@@ -22,7 +22,7 @@ tqdm
 ### Training
 - Use the below command for training:
 ```
-python train.py --checkpoints_dir --batch_size --learning_rate             
+python train_cl1.py --checkpoints_dir --batch_size --learning_rate             
 ```
 ### Testing
 - Use the below command for testing:
